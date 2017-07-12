@@ -2,6 +2,8 @@
 
 This is a react component that creates an embedded iframe video, and provides callbacks for various events in the video lifecycle. This is useful if you want to hook in custom analytics, for example.
 
+Currently only works for Vimeo embeds.
+
 ## Usage
 
 ```jsx
