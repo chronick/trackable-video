@@ -19,4 +19,6 @@ Currently only works for Vimeo embeds.
 ```
 ## Installation
 
-`npm install trackable-video` or `yarn add trackable-video`
+`npm install trackable-video`
+or
+`yarn add trackable-video`
